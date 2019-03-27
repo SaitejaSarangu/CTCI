@@ -1,6 +1,4 @@
-package chap03;
 
-import static helpers.Printer.*;
 
 import java.util.Arrays;
 import java.util.Stack;
