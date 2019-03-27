@@ -65,7 +65,7 @@ public class Q1 {
         return stackPointers[stackNum] + stackNum * STACK_SIZE;
     }
 
-    //TEST----------------------------------
+    //TEST
     public static void main(String[] args) {
         Q1 stack = new Q1();
         stack.printStacks();
