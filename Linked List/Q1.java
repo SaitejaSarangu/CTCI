@@ -1,4 +1,4 @@
-import java.util.HashSet;
+import java.util.Scanner;
 /*
   Write code to remove duplicates from an unsorted linked list.
 */
